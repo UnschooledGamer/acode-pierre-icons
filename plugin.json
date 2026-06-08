@@ -2,7 +2,7 @@
 	"id": "ug.pierre.icons",
 	"name": "Pierre Icons",
 	"main": "main.js",
-	"version": "1.0.0-rc.1",
+	"version": "1.0.1",
 	"license": "MIT",
 	"readme": "README.md",
 	"minVersionCode": 289,
