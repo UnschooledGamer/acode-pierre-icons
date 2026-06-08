@@ -7,6 +7,7 @@
 	"readme": "README.md",
 	"minVersionCode": 289,
 	"icon": "icon.png",
+	"changelogs": "CHANGELOG.md",
 	"files": [],
 	"keywords": ["icons", "ui-icons", "icon-pack"],
     "contributors": [],
