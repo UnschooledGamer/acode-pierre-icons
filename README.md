@@ -8,7 +8,7 @@
 
 Pierre Icons is an icon theme plugin (from: https://github.com/pierrecomputer/vscode-icons) for Acode that maps file names and extensions to themed SVG icons.
 
-![Banner Image](./readme-assets/banner.png)
+![Banner Image](https://github.com/UnschooledGamer/acode-pierre-icons/raw/main/readme-assets/banner.png)
 
 ## Themes
 
