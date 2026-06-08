@@ -36,7 +36,7 @@ function applyOpacity(svg, opacity) {
 }
 
 function applyBgStyle(svg, bgColor) {
-  return svg.replace(">", `><style>.bg{fill:${bgColor}}</style>`);
+  return svg.replace(/<svg\b[^>]*>/, `$&<style>.bg{fill:${bgColor}}</style>`);
 }
 
 function optimizeSvg(raw) {
