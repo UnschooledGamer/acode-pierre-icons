@@ -1,0 +1,23 @@
+{
+  "name": "pierre-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "node ./scripts/build/index.js",
+    "build:icons": "node ./scripts/build-icon-theme.mjs",
+    "format:svgs": "node ./scripts/format-svgs.mjs",
+    "svg:sizes": "node ./scripts/svg-sizes.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "UnschooledGamer",
+  "license": "MIT",
+  "packageManager": "pnpm@10.33.1",
+  "devDependencies": {
+    "@swc/core": "^1.15.33",
+    "esbuild": "^0.28.0",
+    "fflate": "^0.8.2",
+    "svgo": "^4.0.1"
+  }
+}

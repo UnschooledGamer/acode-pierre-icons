@@ -1,0 +1,18 @@
+{
+	"id": "ug.pierre.icons",
+	"name": "Pierre Icons",
+	"main": "main.js",
+	"version": "1.0.0",
+	"license": "MIT",
+	"readme": "README.md",
+	"minVersionCode": 289,
+	"icon": "icon.png",
+	"files": [],
+	"keywords": ["icons", "ui-icons", "icon-pack"],
+    "contributors": [],
+	"author": {
+		"name": "UnschooledGamer",
+		"email": "unschooledgamer@gmail.com",
+		"github": "unschooledgamer"
+	}
+}

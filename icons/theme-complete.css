@@ -1,0 +1,3843 @@
+.list.collapsible.hidden > div[data-type="root"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.list.collapsible > div[data-type="root"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-open-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.list.collapsible.hidden > div.tile[data-name][data-type="dir"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.list.collapsible > div.tile[data-name][data-type="dir"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-open-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+#file-browser > ul > li.tile[type="dir"]  > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+#file-browser > ul > li.tile[type="directory"]  > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+/* File Styles */
+.file.file_type_default::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_txt::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_md::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_mdx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rst::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rtf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_log::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_csv::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tsv::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ini::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_cfg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_conf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env\.local::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env\.development::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env\.production::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_editorconfig::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_LICENSE::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_AUTHORS::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_CONTRIBUTORS::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_CHANGELOG::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_png::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jpg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jpeg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_gif::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svg-2-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_svg-2::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svg-2-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webp::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_avif::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ico::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_icns::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bmp::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tiff::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tif::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-javascript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-javascript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-javascript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jsx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/react-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_react::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/react-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-typescript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_cts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-typescript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_mts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-typescript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tsx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/react-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_react::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/react-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_css::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_scss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/sass-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_sass::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/sass-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sass::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/sass-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_less::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_styl::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_html::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-html-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_htm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-html-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xhtml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-html-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_swift::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-swift-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-swift::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-swift-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-rust-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-rust::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-rust-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_go::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-go-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-go::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-go-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_py::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_pyw::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_pyi::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_pyx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rb::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_erb::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_gemspec::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rake::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_db::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sql::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sqlite::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sqlite3::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xls::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xlsx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ods::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_zip::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tar::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_gz::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tgz::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bz2::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xz::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_7z::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rar::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jar::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_war::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ttf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_otf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_woff::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_woff2::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eot::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bash::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_zsh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_fish::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ksh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_csh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jsonc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_json5::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jsonl::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_astro::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/astro-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svelte::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svelte-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_vue::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vue-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_graphql::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/graphql-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_gql::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/graphql-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_graphql::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/graphql-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_terraform::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tfvars::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_terraform::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tfstate::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_terraform::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_wasm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/wasm-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_wasm-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/wasm-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_wat::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/wasm-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_wasm-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/wasm-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_wast::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/wasm-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_wasm-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/wasm-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/yml-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_yaml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/yml-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/yml-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_zig::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/zig-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_code-workspace::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vscode-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_vscode::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vscode-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_Gemfile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_Rakefile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.bashrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.bash_profile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.zshrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.zshenv::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.zprofile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitignore::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitattributes::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitmodules::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitkeep::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bootstrap\.min\.css::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bootstrap-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bootstrap\.css::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bootstrap-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bootstrap\.min\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bootstrap-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bootstrap\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bootstrap-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bootstrap\.bundle\.min\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bootstrap-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bootstrap\.bundle\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bootstrap-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.terraform\.lock\.hcl::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_terraform::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_package\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_npm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_package-lock\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_npm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.npmrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_npm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.npmignore::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_npm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.eslintrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.eslintrc\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.eslintrc\.yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.eslintrc\.yaml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.eslintrc\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.eslintrc\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eslint\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eslint\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eslint\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eslint\.config\.ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eslint\.config\.mts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.eslintignore::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc\.yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc\.yaml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierrc\.toml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_prettier\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_prettier\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_prettier\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.prettierignore::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintrc\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintrc\.yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintrc\.yaml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintrc\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintrc\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintrc\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_stylelint\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_stylelint\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_stylelint\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.stylelintignore::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_vite\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_vite::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_vite\.config\.ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_vite::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_vite\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_vite::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_vite\.config\.mts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_vite::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svgo\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_svgo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svgo\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_svgo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svgo\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_svgo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svgo\.config\.ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_svgo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.babelrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_babel::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.babelrc\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_babel::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_babel\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_babel::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_babel\.config\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_babel::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_babel\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_babel::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_babel\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_babel::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_Dockerfile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.dockerignore::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_docker-compose\.yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_docker-compose\.yaml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_docker-compose\.override\.yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_compose\.yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_compose\.yaml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tailwind\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_tailwind::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tailwind\.config\.ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_tailwind::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tailwind\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_tailwind::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tailwind\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_tailwind::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_next\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_nextjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_next\.config\.ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_nextjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_next\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_nextjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_next\.config\.mts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_nextjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webpack\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_webpack::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webpack\.config\.ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_webpack::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webpack\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_webpack::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webpack\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_webpack::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webpack\.config\.babel\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_webpack::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_postcss\.config\.js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_postcss\.config\.cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_postcss\.config\.mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_postcss\.config\.ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.postcssrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.postcssrc\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.postcssrc\.yml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.postcssrc\.yaml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/postcss-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_biome\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/biome-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_biome::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/biome-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_biome\.jsonc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/biome-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_biome::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/biome-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bunfig\.toml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bun-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bun-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bun-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bun\.lockb::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bun-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bun-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bun-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bun\.lock::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bun-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bun-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bun-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.oxlintrc\.json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/oxc-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_oxc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/oxc-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.browserslistrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/browserslist-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_browserslist-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/browserslist-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_CLAUDE\.md::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/claude-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_claude::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/claude-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bootstrap-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bootstrap-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_terraform::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/terraform-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_npm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/npm-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eslint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/eslint-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_prettier::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/prettier-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_stylelint::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/stylelint.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_vite::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/vite-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svgo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svgo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_babel::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/babel-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_docker::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/docker-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tailwind::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/tailwind-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_nextjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/nextjs.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webpack::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/webpack-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_biome::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/biome-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bun-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bun-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_oxc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/oxc-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_browserslist-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/browserslist-duo-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_claude::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/claude-color.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }

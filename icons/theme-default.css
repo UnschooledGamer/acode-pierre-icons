@@ -1,0 +1,1858 @@
+.list.collapsible.hidden > div[data-type="root"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.list.collapsible > div[data-type="root"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-open-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.list.collapsible.hidden > div.tile[data-name][data-type="dir"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.list.collapsible > div.tile[data-name][data-type="dir"] > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-open-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+#file-browser > ul > li.tile[type="dir"]  > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+#file-browser > ul > li.tile[type="directory"]  > .icon.folder::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/folder-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+/* File Styles */
+.file.file_type_default::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_txt::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_md::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_mdx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-markdown::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-markdown.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rst::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rtf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_log::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_csv::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tsv::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ini::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_cfg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_conf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env\.local::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env\.development::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_env\.production::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_editorconfig::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_LICENSE::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_AUTHORS::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_CONTRIBUTORS::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_CHANGELOG::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-text-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-text-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_png::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jpg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jpeg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_gif::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_svg::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svg-2.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_svg-2::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/svg-2.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_webp::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_avif::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ico::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_icns::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bmp::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tiff::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tif::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_image-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/image-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_js::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-javascript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_cjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-javascript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_mjs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-javascript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jsx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-javascript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-javascript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-typescript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_cts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-typescript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_mts::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-typescript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tsx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-typescript-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-typescript-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_css::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_scss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sass::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_less::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_postcss::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_styl::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-css-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-css-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_html::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-html-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_htm::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-html-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xhtml::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-html-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-html-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_swift::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-swift.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-swift::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-swift.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rs::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-rust.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-rust::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-rust.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_go::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-go.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-go::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-go.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_py::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_pyw::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_pyi::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_pyx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-python::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-python.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rb::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_erb::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_gemspec::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rake::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_db::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sql::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sqlite::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sqlite3::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_server-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/server-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xls::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xlsx::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ods::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-table-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-table-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_zip::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tar::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_gz::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_tgz::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bz2::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_xz::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_7z::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_rar::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jar::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_war::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_file-zip-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/file-zip-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ttf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_otf::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_woff::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_woff2::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_eot::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_font::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/font.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_sh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bash::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_zsh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_fish::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_ksh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_csh::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_json::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jsonc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_json5::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_jsonl::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_braces::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/braces.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_Gemfile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_Rakefile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.bashrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.bash_profile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.zshrc::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.zshenv::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.zprofile::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitignore::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitattributes::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitmodules::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_\.gitkeep::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_lang-ruby::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/lang-ruby.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_bash-duo::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/bash-duo.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
+.file.file_type_git::before {
+  display: inline-block;
+  content: '' !important;
+  background-image: url(https://localhost/__cdvfile_files-external__/plugins/undefined/icons/git.svg) !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1em;
+  width: 1em;
+  }
