@@ -16,7 +16,7 @@
   "packageManager": "pnpm@10.33.1",
   "devDependencies": {
     "@swc/core": "^1.15.33",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.1",
     "fflate": "^0.8.2",
     "svgo": "^4.0.1"
   }
